@@ -7,8 +7,6 @@ plugins {
 }
 
 group = 'com.moqi'
-// Docker image names are not allowed to have upper-case characters
-// https://github.com/spring-projects/spring-boot/issues/21922#issuecomment-644929521
 version = '0.0.1'
 sourceCompatibility = '11'
 
